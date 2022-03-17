@@ -1,7 +1,7 @@
 # Exploring-C-11-Exercises
-<h1>Exercises from handsbook Exploring C++ 11 writing it myself</h1>
+<h2>Exercises from handsbook Exploring C++ 11 writing it myself</h2>
 
-Project 1: Body-Mass Index
+<h3>Project 1: Body-Mass Index</h3>
 
 It’s project time! Body-mass index (BMI) is a measurement some health-care professionals use to determine whether
 a person is overweight, and if so, by how much. To compute BMI, you need a person’s weight in kilograms and height
