@@ -1,5 +1,5 @@
 # Exploring-C-11-Exercises
-<h1>Exercises from handsbook Exploring C++ 11 writing it myself<h1/>
+<h1>Exercises from handsbook Exploring C++ 11 writing it myself</h1>
 
 Project 1: Body-Mass Index
 
